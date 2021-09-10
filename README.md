@@ -1,5 +1,5 @@
 ### 🖐Hi there, I'm cifron4ik!🖐
-[](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 - 🔭 I’m currently working on [cifron][website]!(in progress of creating) 🤓  
 - 🌱 I’m currently learning everything )-_-)
 - 👯 I’m looking to collaborate with other content creators 🤝
